@@ -16,10 +16,7 @@
 ### An add/delete course for upcoming semesters functionality similar to what was provided in student center. 
 ### Also a more extensive week by week calendar for upcoming term to view what classes you have enrolled in.
 
-
-
-
 ## Links
 
 ### Figma: https://www.figma.com/file/0I3pdpNAVBXJB7BLtlUDMR/HCI-A2
-### YouTube: 
+### YouTube: https://youtu.be/Z8nWlUn3UaQ
